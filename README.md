@@ -1,5 +1,5 @@
-# LeetCodeNotes
-### Leetcode 练习笔记
+# LeetCode Notes
+### LeetCode 练习笔记
 
 #### [基础部分](https://github.com/yrylalala/LeetCodeNotes/blob/main/basic/basic.md)
   - 数组，栈，队列  
